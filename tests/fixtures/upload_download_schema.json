@@ -1,0 +1,19 @@
+[
+  {"Tipo":"pasta","Nome":"Uploadteste","Caminho":".\\Uploadteste","Tamanho_Bytes":null,"Criado_Em":"2026-11-20 23:02"},
+  {"Tipo":"pasta","Nome":"audio","Caminho":".\\Uploadteste\\audio","Tamanho_Bytes":null,"Criado_Em":"2026-11-20 23:02"},
+  {"Tipo":"pasta","Nome":"bin","Caminho":".\\Uploadteste\\bin","Tamanho_Bytes":null,"Criado_Em":"2026-11-20 23:05"},
+  {"Tipo":"pasta","Nome":"texturas","Caminho":".\\Uploadteste\\texturas","Tamanho_Bytes":null,"Criado_Em":"2026-11-20 23:03"},
+  {"Tipo":"pasta","Nome":"video","Caminho":".\\Uploadteste\\video","Tamanho_Bytes":null,"Criado_Em":"2026-11-20 23:02"},
+  {"Tipo":"arquivo","Nome":"DLSSVideoPlayer.ini","Caminho":".\\Uploadteste\\DLSSVideoPlayer.ini","Tamanho_Bytes":1595,"Criado_Em":"2026-11-21 00:17"},
+  {"Tipo":"arquivo","Nome":"nvngx_dlss.dll","Caminho":".\\Uploadteste\\nvngx_dlss.dll","Tamanho_Bytes":58977904,"Criado_Em":"2026-11-21 00:17"},
+  {"Tipo":"arquivo","Nome":"nvngx_dlssg.dll","Caminho":".\\Uploadteste\\nvngx_dlssg.dll","Tamanho_Bytes":7519856,"Criado_Em":"2026-11-21 00:17"},
+  {"Tipo":"arquivo","Nome":"nvngx_vsr.dll","Caminho":".\\Uploadteste\\nvngx_vsr.dll","Tamanho_Bytes":19140144,"Criado_Em":"2026-11-21 00:17"},
+  {"Tipo":"arquivo","Nome":"audio.flac","Caminho":".\\Uploadteste\\audio\\audio.flac","Tamanho_Bytes":67470273,"Criado_Em":"2026-11-21 00:15"},
+  {"Tipo":"arquivo","Nome":"Cosmos.exe","Caminho":".\\Uploadteste\\bin\\Cosmos.exe","Tamanho_Bytes":219648,"Criado_Em":"2026-11-21 00:16"},
+  {"Tipo":"pasta","Nome":"campain","Caminho":".\\Uploadteste\\texturas\\campain","Tamanho_Bytes":null,"Criado_Em":"2026-11-20 23:04"},
+  {"Tipo":"arquivo","Nome":"5181416385639288392_121.jpg","Caminho":".\\Uploadteste\\texturas\\5181416385639288392_121.jpg","Tamanho_Bytes":369981,"Criado_Em":"2026-11-21 00:16"},
+  {"Tipo":"arquivo","Nome":"Mapa Colorido de Leonida Revelado.png","Caminho":".\\Uploadteste\\texturas\\Mapa Colorido de Leonida Revelado.png","Tamanho_Bytes":2977665,"Criado_Em":"2026-11-21 00:16"},
+  {"Tipo":"arquivo","Nome":"Wallpaper gamer PCYES com hardware e neon vermelho.png","Caminho":".\\Uploadteste\\texturas\\Wallpaper gamer PCYES com hardware e neon vermelho.png","Tamanho_Bytes":1007194,"Criado_Em":"2026-11-21 00:16"},
+  {"Tipo":"arquivo","Nome":"Gravando 2026-11-11 205440.mp4","Caminho":".\\Uploadteste\\texturas\\campain\\Gravando 2026-11-11 205440.mp4","Tamanho_Bytes":40326016,"Criado_Em":"2026-11-21 00:16"},
+  {"Tipo":"arquivo","Nome":"Gravação de Tela 2026-11-11 205414.mp4","Caminho":".\\Uploadteste\\video\\Gravação de Tela 2026-11-11 205414.mp4","Tamanho_Bytes":50576248,"Criado_Em":"2026-11-21 00:17"}
+]

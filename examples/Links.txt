@@ -1,0 +1,4 @@
+# Exemplos ilustrativos: substitua os IDs por links seus, válidos e autorizados.
+https://vikingfile.com/f/ID_A#arquivo.bin
+https://gofile.io/d/ID_B#MeuJogo/dados/parte02.bin
+https://buzzheavier.com/ID_C#MeuJogo/audio/parte03.bin

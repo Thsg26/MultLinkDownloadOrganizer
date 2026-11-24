@@ -1,0 +1,7 @@
+[
+  {"Tipo":"pasta","Nome":"MeuJogo","Caminho":".\\MeuJogo","Tamanho_Bytes":null,"Criado_Em":"2026-11-21 10:00"},
+  {"Tipo":"pasta","Nome":"vazia","Caminho":".\\MeuJogo\\vazia","Tamanho_Bytes":null,"Criado_Em":"2026-11-21 10:00"},
+  {"Tipo":"arquivo","Nome":"arquivo.bin","Caminho":".\\MeuJogo\\arquivo.bin","Tamanho_Bytes":13312,"Criado_Em":"2026-11-21 10:00"},
+  {"Tipo":"arquivo","Nome":"parte02.bin","Caminho":".\\MeuJogo\\dados\\parte02.bin","Tamanho_Bytes":255488,"Criado_Em":"2026-11-21 10:00"},
+  {"Tipo":"arquivo","Nome":"parte03.bin","Caminho":".\\MeuJogo\\audio\\parte03.bin","Tamanho_Bytes":38656,"Criado_Em":"2026-11-21 10:00"}
+]

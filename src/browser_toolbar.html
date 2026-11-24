@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'">
+<style>
+*{box-sizing:border-box}body{margin:0;background:#121822;color:#e8eff9;font:12px 'Segoe UI',sans-serif;padding:8px 12px}
+button{background:#202c3b;color:#e8eff9;border:1px solid #334254;border-radius:5px;padding:5px 10px;cursor:pointer}button.selected{border-color:#51dab8;color:#51dab8}
+#tabs{display:flex;gap:5px;height:28px;overflow-x:auto}#tabs button{max-width:210px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex-shrink:0}
+.tools{display:flex;gap:6px;align-items:center;margin-top:5px}#address{flex:1;min-width:40px;color:#9caec4;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding:4px;background:#0d1119;border-radius:4px}
+p{margin:6px 0 0;color:#a7b6c9;font-size:11px}.accent{color:#51dab8}
+</style></head><body>
+ <div id="tabs"><span>MLDO · Navegador de autenticação</span></div>
+<div class="tools"><button onclick="send('back')">Voltar</button><button onclick="send('reload')">Recarregar</button><div id="address">Nenhuma aba aberta</div><button onclick="send('capture')">Capturar link liberado</button><button onclick="send('close')">Fechar aba</button><button onclick="send('minimize')">Minimizar</button></div>
+<p><span class="accent">Edge/WebView2 · agente nativo · uma página por vez</span> · Resolva o captcha normalmente. Downloads vão para a fila do MLDO. Fechar a janela apenas minimiza.</p>
+<script>
+function send(action,id){window.ipc.postMessage(JSON.stringify({action,id}))}
+window.updateMldo=function(model){
+const tabs=document.getElementById('tabs');tabs.replaceChildren();
+for(const tab of model.tabs){const button=document.createElement('button');button.textContent=(tab.captured?'✓ ':'')+tab.label;button.title=tab.label;button.className=tab.id===model.selected?'selected':'';button.onclick=()=>send('select',tab.id);tabs.appendChild(button)}
+document.getElementById('address').textContent=model.address||'Nenhuma aba aberta';
+};
+</script></body></html>

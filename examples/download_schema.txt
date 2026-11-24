@@ -1,0 +1,6 @@
+.\MeuJogo	0 KB	20/11/2026 18:05
+.\MeuJogo\arquivo.bin	13 KB	20/11/2026 18:17
+.\MeuJogo\dados	0 KB	20/11/2026 18:05
+.\MeuJogo\dados\parte02.bin	249.50 KB	20/11/2026 18:17
+.\MeuJogo\audio	0 KB	20/11/2026 18:05
+.\MeuJogo\audio\parte03.bin	37.75 KB	20/11/2026 18:17

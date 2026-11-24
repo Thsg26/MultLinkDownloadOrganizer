@@ -1,0 +1,1052 @@
+﻿[
+    {
+        "Tipo":  "pasta",
+        "Nome":  "GTA6.Xbox.v1.0.2.1-CYBERLEEK",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "data",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "pack",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "amd_fidelityfx_loader_xbox.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\amd_fidelityfx_loader_xbox.dll",
+        "Tamanho_Bytes":  13312,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "amd_fidelityfx_upscaler_xbox.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\amd_fidelityfx_upscaler_xbox.dll",
+        "Tamanho_Bytes":  786432,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "anim.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\anim.rpf",
+        "Tamanho_Bytes":  4407626384,
+        "Criado_Em":  "2026-11-20 18:19"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "appdata0.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\appdata0.rpf",
+        "Tamanho_Bytes":  8880,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "appxmanifest.xml",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\appxmanifest.xml",
+        "Tamanho_Bytes":  3394,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "audio.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\audio.rpf",
+        "Tamanho_Bytes":  28543454672,
+        "Criado_Em":  "2026-11-20 18:21"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "Bink2Scarlett.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\Bink2Scarlett.dll",
+        "Tamanho_Bytes":  255488,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "Catalog000.bin",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\Catalog000.bin",
+        "Tamanho_Bytes":  815104,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "common.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\common.rpf",
+        "Tamanho_Bytes":  6642192,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "concrt140.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\concrt140.dll",
+        "Tamanho_Bytes":  298992,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "data.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data.rpf",
+        "Tamanho_Bytes":  481544304,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "gameos.xvd",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\gameos.xvd",
+        "Tamanho_Bytes":  348069888,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "layout_3202719e-b4b4-421c-9f8f-70d1c4a7d60b_xs.xml",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\layout_3202719e-b4b4-421c-9f8f-70d1c4a7d60b_xs.xml",
+        "Tamanho_Bytes":  13698,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "levels.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\levels.rpf",
+        "Tamanho_Bytes":  76155065056,
+        "Criado_Em":  "2026-11-20 18:25"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "libHttpClient.GDK.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\libHttpClient.GDK.dll",
+        "Tamanho_Bytes":  975856,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "MicrosoftGame.Config",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\MicrosoftGame.Config",
+        "Tamanho_Bytes":  2542,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "microsoft_gameconfig.bin",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\microsoft_gameconfig.bin",
+        "Tamanho_Bytes":  8192,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "movies.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\movies.rpf",
+        "Tamanho_Bytes":  8832481776,
+        "Criado_Em":  "2026-11-20 18:20"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "msvcp140.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\msvcp140.dll",
+        "Tamanho_Bytes":  565232,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "msvcp140_1.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\msvcp140_1.dll",
+        "Tamanho_Bytes":  26104,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "msvcp140_2.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\msvcp140_2.dll",
+        "Tamanho_Bytes":  187888,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "msvcp140_atomic_wait.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\msvcp140_atomic_wait.dll",
+        "Tamanho_Bytes":  57312,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "msvcp140_codecvt_ids.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\msvcp140_codecvt_ids.dll",
+        "Tamanho_Bytes":  22008,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "navmeshes.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\navmeshes.rpf",
+        "Tamanho_Bytes":  6707512496,
+        "Criado_Em":  "2026-11-20 18:18"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "packs.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\packs.rpf",
+        "Tamanho_Bytes":  4798213264,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "resources.pri",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\resources.pri",
+        "Tamanho_Bytes":  1152,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "script.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\script.rpf",
+        "Tamanho_Bytes":  4358960,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "shaders.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\shaders.rpf",
+        "Tamanho_Bytes":  411695600,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "textures.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\textures.rpf",
+        "Tamanho_Bytes":  192585024,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "Update.alignmentchunk",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\Update.alignmentchunk",
+        "Tamanho_Bytes":  1,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "vccorlib140.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\vccorlib140.dll",
+        "Tamanho_Bytes":  336888,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "vcomp140.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\vcomp140.dll",
+        "Tamanho_Bytes":  72176,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "vcruntime140.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\vcruntime140.dll",
+        "Tamanho_Bytes":  97776,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "vcruntime140_1.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\vcruntime140_1.dll",
+        "Tamanho_Bytes":  37848,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "XboxBvhBuilder.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\XboxBvhBuilder.dll",
+        "Tamanho_Bytes":  884224,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "xbs_logo_150.png",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\xbs_logo_150.png",
+        "Tamanho_Bytes":  54536,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "xbs_logo_44.png",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\xbs_logo_44.png",
+        "Tamanho_Bytes":  7102,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "xbs_logo_480.png",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\xbs_logo_480.png",
+        "Tamanho_Bytes":  404663,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "xbs_logo_store.png",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\xbs_logo_store.png",
+        "Tamanho_Bytes":  29356,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "xbs_splash.png",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\xbs_splash.png",
+        "Tamanho_Bytes":  2507194,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "XCurl.dll",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\XCurl.dll",
+        "Tamanho_Bytes":  199152,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "ttdb",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "graphics",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\graphics",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "interiors",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\interiors",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "lighting",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\lighting",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:11"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "maps",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\maps",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:11"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "peds",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "props",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\props",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:09"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "terrain",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:06"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "ui",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\ui",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "vehicles",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\vehicles",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "vfx",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\vfx",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "weapons",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\weapons",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_graphics.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\graphics\\ttdb_graphics.ttpf",
+        "Tamanho_Bytes":  34411776,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_interiors_0_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\interiors\\ttdb_interiors_0_3.ttpf",
+        "Tamanho_Bytes":  883202048,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_interiors_1_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\interiors\\ttdb_interiors_1_3.ttpf",
+        "Tamanho_Bytes":  898113536,
+        "Criado_Em":  "2026-11-20 18:11"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_interiors_2_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\interiors\\ttdb_interiors_2_3.ttpf",
+        "Tamanho_Bytes":  881431552,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_interiors_3_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\interiors\\ttdb_interiors_3_3.ttpf",
+        "Tamanho_Bytes":  900875008,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "lighting.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\lighting\\lighting.ttpf",
+        "Tamanho_Bytes":  151531776,
+        "Criado_Em":  "2026-11-20 18:11"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps_0_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\maps\\ttdb_maps_0_7.ttpf",
+        "Tamanho_Bytes":  1765679616,
+        "Criado_Em":  "2026-11-20 18:11"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps_1_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\maps\\ttdb_maps_1_7.ttpf",
+        "Tamanho_Bytes":  1746187776,
+        "Criado_Em":  "2026-11-20 18:11"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps_2_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\maps\\ttdb_maps_2_7.ttpf",
+        "Tamanho_Bytes":  1818806528,
+        "Criado_Em":  "2026-11-20 18:11"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps_3_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\maps\\ttdb_maps_3_7.ttpf",
+        "Tamanho_Bytes":  1787349760,
+        "Criado_Em":  "2026-11-20 18:12"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps_4_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\maps\\ttdb_maps_4_7.ttpf",
+        "Tamanho_Bytes":  1791670784,
+        "Criado_Em":  "2026-11-20 18:11"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps_5_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\maps\\ttdb_maps_5_7.ttpf",
+        "Tamanho_Bytes":  1840029440,
+        "Criado_Em":  "2026-11-20 18:12"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps_6_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\maps\\ttdb_maps_6_7.ttpf",
+        "Tamanho_Bytes":  1745923072,
+        "Criado_Em":  "2026-11-20 18:12"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps_7_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\maps\\ttdb_maps_7_7.ttpf",
+        "Tamanho_Bytes":  1755748608,
+        "Criado_Em":  "2026-11-20 18:12"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "decorations_0_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds\\decorations_0_3.ttpf",
+        "Tamanho_Bytes":  494316032,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "decorations_1_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds\\decorations_1_3.ttpf",
+        "Tamanho_Bytes":  510001152,
+        "Criado_Em":  "2026-11-20 18:06"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "decorations_2_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds\\decorations_2_3.ttpf",
+        "Tamanho_Bytes":  491507456,
+        "Criado_Em":  "2026-11-20 18:06"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "decorations_3_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds\\decorations_3_3.ttpf",
+        "Tamanho_Bytes":  497391360,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "peds_loose.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds\\peds_loose.ttpf",
+        "Tamanho_Bytes":  135676160,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_peds_0_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds\\ttdb_peds_0_3.ttpf",
+        "Tamanho_Bytes":  953116416,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_peds_1_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds\\ttdb_peds_1_3.ttpf",
+        "Tamanho_Bytes":  965556736,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_peds_2_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds\\ttdb_peds_2_3.ttpf",
+        "Tamanho_Bytes":  937699072,
+        "Criado_Em":  "2026-11-20 18:06"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_peds_3_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\peds\\ttdb_peds_3_3.ttpf",
+        "Tamanho_Bytes":  957291520,
+        "Criado_Em":  "2026-11-20 18:05"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "octa_imposters.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\props\\octa_imposters.ttpf",
+        "Tamanho_Bytes":  983620352,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_props_0_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\props\\ttdb_props_0_3.ttpf",
+        "Tamanho_Bytes":  1304458240,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_props_1_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\props\\ttdb_props_1_3.ttpf",
+        "Tamanho_Bytes":  1256908800,
+        "Criado_Em":  "2026-11-20 18:09"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_props_2_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\props\\ttdb_props_2_3.ttpf",
+        "Tamanho_Bytes":  1239990784,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_props_3_3.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\props\\ttdb_props_3_3.ttpf",
+        "Tamanho_Bytes":  1328911616,
+        "Criado_Em":  "2026-11-20 18:09"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_0_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_0_7.ttpf",
+        "Tamanho_Bytes":  2775084288,
+        "Criado_Em":  "2026-11-20 18:07"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_1_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_1_7.ttpf",
+        "Tamanho_Bytes":  2739444480,
+        "Criado_Em":  "2026-11-20 18:06"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_2_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_2_7.ttpf",
+        "Tamanho_Bytes":  2780145920,
+        "Criado_Em":  "2026-11-20 18:08"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_3_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_3_7.ttpf",
+        "Tamanho_Bytes":  2718679808,
+        "Criado_Em":  "2026-11-20 18:08"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_4_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_4_7.ttpf",
+        "Tamanho_Bytes":  2741339648,
+        "Criado_Em":  "2026-11-20 18:08"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_5_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_5_7.ttpf",
+        "Tamanho_Bytes":  2674379008,
+        "Criado_Em":  "2026-11-20 18:09"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_6_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_6_7.ttpf",
+        "Tamanho_Bytes":  2688808960,
+        "Criado_Em":  "2026-11-20 18:06"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_7_7.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_7_7.ttpf",
+        "Tamanho_Bytes":  2828296704,
+        "Criado_Em":  "2026-11-20 18:07"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_image_based_0_1.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_image_based_0_1.ttpf",
+        "Tamanho_Bytes":  1946070528,
+        "Criado_Em":  "2026-11-20 18:07"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_image_based_1_1.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\terrain\\ttdb_terrain_image_based_1_1.ttpf",
+        "Tamanho_Bytes":  1890978048,
+        "Criado_Em":  "2026-11-20 18:09"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "platform.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\ui\\platform.ttpf",
+        "Tamanho_Bytes":  222976,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_ui.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\ui\\ttdb_ui.ttpf",
+        "Tamanho_Bytes":  845115648,
+        "Criado_Em":  "2026-11-20 18:10"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_vehicles.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\vehicles\\ttdb_vehicles.ttpf",
+        "Tamanho_Bytes":  195418624,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_vehicles_loose_0_1.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\vehicles\\ttdb_vehicles_loose_0_1.ttpf",
+        "Tamanho_Bytes":  838474496,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_vehicles_loose_1_1.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\vehicles\\ttdb_vehicles_loose_1_1.ttpf",
+        "Tamanho_Bytes":  890206208,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_vfx.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\vfx\\ttdb_vfx.ttpf",
+        "Tamanho_Bytes":  238897664,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_weapons.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\weapons\\ttdb_weapons.ttpf",
+        "Tamanho_Bytes":  1421518080,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "weapon_liveries.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\data\\ttdb\\weapons\\weapon_liveries.ttpf",
+        "Tamanho_Bytes":  739758848,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "core_bvh4",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_bvh4",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:16"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "core_licenses",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_licenses",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "core_restofworld",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "core_restofworld001",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld001",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "shared_minigame000",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "shared_minigame000_bvh4",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000_bvh4",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "story000",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "story000_bvh4",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000_bvh4",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:16"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "story000_restofworld",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000_restofworld",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:16"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "core_bvh4.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_bvh4\\core_bvh4.rpf",
+        "Tamanho_Bytes":  8297921520,
+        "Criado_Em":  "2026-11-20 18:16"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "core_licenses_data.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_licenses\\core_licenses_data.rpf",
+        "Tamanho_Bytes":  13536,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "data",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "core_restofworld.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\core_restofworld.rpf",
+        "Tamanho_Bytes":  1295760752,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "ttdb",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "peds",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb\\peds",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "props",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb\\props",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "ui",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb\\ui",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "vfx",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb\\vfx",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "textures_loose.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb\\textures_loose.ttpf",
+        "Tamanho_Bytes":  21081856,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_peds.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb\\peds\\ttdb_peds.ttpf",
+        "Tamanho_Bytes":  24529408,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_props.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb\\props\\ttdb_props.ttpf",
+        "Tamanho_Bytes":  35286784,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_ui.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb\\ui\\ttdb_ui.ttpf",
+        "Tamanho_Bytes":  4729600,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_vfx.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld\\data\\ttdb\\vfx\\ttdb_vfx.ttpf",
+        "Tamanho_Bytes":  3129600,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "data",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld001\\data",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "core_restofworld001.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld001\\core_restofworld001.rpf",
+        "Tamanho_Bytes":  791984,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "ttdb",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld001\\data\\ttdb",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "ui",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld001\\data\\ttdb\\ui",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_ui.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\core_restofworld001\\data\\ttdb\\ui\\ttdb_ui.ttpf",
+        "Tamanho_Bytes":  38656,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "data",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000\\data",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "shared_minigame000.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000\\shared_minigame000.rpf",
+        "Tamanho_Bytes":  810581008,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "ttdb",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000\\data\\ttdb",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "maps",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000\\data\\ttdb\\maps",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "terrain",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000\\data\\ttdb\\terrain",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000\\data\\ttdb\\maps\\ttdb_maps.ttpf",
+        "Tamanho_Bytes":  193522176,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_image_based.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000\\data\\ttdb\\terrain\\ttdb_terrain_image_based.ttpf",
+        "Tamanho_Bytes":  1427712,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "shared_minigame000_bvh4.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\shared_minigame000_bvh4\\shared_minigame000_bvh4.rpf",
+        "Tamanho_Bytes":  61987040,
+        "Criado_Em":  "2026-11-20 18:17"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "data",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\data",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "story000.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\story000.rpf",
+        "Tamanho_Bytes":  20022508672,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "story000_script.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\story000_script.rpf",
+        "Tamanho_Bytes":  78023728,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "ttdb",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\data\\ttdb",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "maps",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\data\\ttdb\\maps",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "terrain",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\data\\ttdb\\terrain",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "pasta",
+        "Nome":  "vfx",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\data\\ttdb\\vfx",
+        "Tamanho_Bytes":  null,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_maps.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\data\\ttdb\\maps\\ttdb_maps.ttpf",
+        "Tamanho_Bytes":  697378560,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_terrain_image_based.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\data\\ttdb\\terrain\\ttdb_terrain_image_based.ttpf",
+        "Tamanho_Bytes":  222333440,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "ttdb_vfx.ttpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000\\data\\ttdb\\vfx\\ttdb_vfx.ttpf",
+        "Tamanho_Bytes":  3357184,
+        "Criado_Em":  "2026-11-20 18:13"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "story000_bvh4.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000_bvh4\\story000_bvh4.rpf",
+        "Tamanho_Bytes":  5632,
+        "Criado_Em":  "2026-11-20 18:16"
+    },
+    {
+        "Tipo":  "arquivo",
+        "Nome":  "story000_restofworld.rpf",
+        "Caminho":  "C:\\Games\\GTA6\\GTA6.Xbox.v1.0.2.1-CYBERLEEK\\pack\\story000_restofworld\\story000_restofworld.rpf",
+        "Tamanho_Bytes":  198354992,
+        "Criado_Em":  "2026-11-20 18:16"
+    }
+]

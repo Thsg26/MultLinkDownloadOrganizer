@@ -1,0 +1,17 @@
+.\Uploadteste	0 KB	20/11/2026 23:02
+.\Uploadteste\audio	0 KB	20/11/2026 23:02
+.\Uploadteste\audio\audio.flac	65888.94 KB	21/11/2026 00:15
+.\Uploadteste\bin	0 KB	20/11/2026 23:05
+.\Uploadteste\bin\Cosmos.exe	214.5 KB	21/11/2026 00:16
+.\Uploadteste\texturas	0 KB	20/11/2026 23:03
+.\Uploadteste\texturas\campain	0 KB	20/11/2026 23:04
+.\Uploadteste\texturas\campain\Gravando 2026-11-11 205440.mp4	39380.88 KB	21/11/2026 00:16
+.\Uploadteste\texturas\5181416385639288392_121.jpg	361.31 KB	21/11/2026 00:16
+.\Uploadteste\texturas\Mapa Colorido de Leonida Revelado.png	2907.88 KB	21/11/2026 00:16
+.\Uploadteste\texturas\Wallpaper gamer PCYES com hardware e neon vermelho.png	983.59 KB	21/11/2026 00:16
+.\Uploadteste\video	0 KB	20/11/2026 23:02
+.\Uploadteste\video\Gravação de Tela 2026-11-11 205414.mp4	49390.87 KB	21/11/2026 00:17
+.\Uploadteste\DLSSVideoPlayer.ini	1.56 KB	21/11/2026 00:17
+.\Uploadteste\nvngx_dlss.dll	57595.61 KB	21/11/2026 00:17
+.\Uploadteste\nvngx_dlssg.dll	7343.61 KB	21/11/2026 00:17
+.\Uploadteste\nvngx_vsr.dll	18691.55 KB	21/11/2026 00:17
