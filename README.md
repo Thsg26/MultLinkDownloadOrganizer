@@ -76,6 +76,28 @@ Registros contêm nome, bytes e hashes da origem/schema, **não URLs/cookies/tok
 
 ## Schema JSON
 
+### Como criar o schema da sua pasta no Windows
+
+1. Crie uma pasta de trabalho vazia, por exemplo `D:\PrepararSchema`. Coloque dentro dela **somente a pasta que deseja mapear**, por exemplo `MeuJogo`, com todos os arquivos e subpastas que fazem parte do download. Guarde a lista de links e quaisquer outros arquivos fora da pasta de trabalho.
+2. Abra `D:\PrepararSchema` no Explorador de Arquivos. Clique na barra de endereço, digite `powershell` e pressione **Enter**. O comando percorre tudo a partir da pasta atual. Executá-lo **na pasta que contém MeuJogo** inclui o próprio nome `MeuJogo` nos caminhos do JSON.
+3. Cole o bloco inteiro no PowerShell e pressione **Enter**.
+
+```powershell
+$base = (Get-Location).Path
+@(Get-ChildItem -Recurse | Where-Object { $_.Name -ne "download_schema.json" } | ForEach-Object {
+    [PSCustomObject]@{
+        Tipo          = if ($_.PSIsContainer) { "pasta" } else { "arquivo" }
+        Nome          = $_.Name
+        Caminho       = $_.FullName.Replace($base, '.')
+        Tamanho_Bytes = if ($_.PSIsContainer) { $null } else { $_.Length }
+        Criado_Em     = $_.CreationTime.ToString('yyyy-MM-dd HH:mm')
+    }
+}) | ConvertTo-Json -Depth 2 | Out-File -FilePath "download_schema.json" -Encoding utf8
+```
+
+4. O arquivo `D:\PrepararSchema\download_schema.json` aparecerá ao lado de `MeuJogo`. Para conferir, abra o JSON e procure um caminho como `.\MeuJogo\audio\voz.bin`. Executar o comando novamente atualiza o JSON existente.
+5. No MLDO, selecione esse JSON, a lista de links correspondente e a pasta de destino. Se escolher `E:\Downloads`, por exemplo, o destino desse arquivo será `E:\Downloads\MeuJogo\audio\voz.bin`.
+
 Array exportado pelo PowerShell, com tipos explícitos:
 
 ```json
